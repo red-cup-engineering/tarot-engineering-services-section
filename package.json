@@ -3,5 +3,9 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Red Cup Science service section for tarot.",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/tarot-services-section.git"
+  }
 }
