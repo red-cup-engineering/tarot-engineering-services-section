@@ -1,8 +1,8 @@
 [submodule "spreads-services-section"]
 	path = services/spreads-services-section
-	url = https://github.com/red-cup-engineering/spreads-services-section.git
+	url = https://github.com/red-cup-engineering/spreads-engineering-services-section.git
 	branch = main
 [submodule "games-services-section"]
 	path = services/games-services-section
-	url = https://github.com/red-cup-engineering/games-services-section.git
+	url = https://github.com/red-cup-engineering/games-engineering-services-section.git
 	branch = main
